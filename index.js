@@ -1,3 +1,3 @@
 module.exports = () => {
-    console.log("Main package intro")
+    console.log("Basic Maths Functions")
 }
