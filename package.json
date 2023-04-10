@@ -1,0 +1,14 @@
+{
+  "name": "quick-maths",
+  "version": "1.0.0",
+  "description": "basic math functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "Otherwa:registry": "https://npm.pkg.github.com"
+  },
+  "author": "Atharv Desai",
+  "license": "ISC"
+}
