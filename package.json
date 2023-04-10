@@ -4,7 +4,7 @@
   "description": "basic math functions",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "test command: exit 0"
   },
   "repository": {
     "url":"https://github.com/Otherwa/Matrix-Package.git"
