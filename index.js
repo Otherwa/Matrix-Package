@@ -1,3 +1,3 @@
 module.exports = () => {
-    console.log("Nice")
+    console.log("Main package intro")
 }
