@@ -9,9 +9,6 @@
   "repository": {
     "url":"https://github.com/Otherwa/quick-mafs.git"
   },
-  "publishConfig": {
-    "otherwa:registry": "https://npm.pkg.github.com"
-  },
   "author": "Atharv Desai",
   "license": "ISC"
 }
