@@ -1,13 +1,13 @@
 {
   "name": "@otherwa/quick-mafs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "basic math functions",
   "main": "index.js",
   "scripts": {
     "test": "test command: exit 0"
   },
   "repository": {
-    "url":"https://github.com/Otherwa/quick-mafs.git"
+    "url": "https://github.com/Otherwa/quick-mafs.git"
   },
   "author": "Atharv Desai",
   "license": "ISC"
