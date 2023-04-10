@@ -4,7 +4,7 @@
   "description": "basic math functions",
   "main": "index.js",
   "scripts": {
-    "test": "test command: exit 0"
+    "test": "npm install"
   },
   "repository": {
     "url": "https://github.com/Otherwa/quick-mafs.git"
