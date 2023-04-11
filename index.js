@@ -1,3 +1,5 @@
-module.exports = () => {
-    console.log("Basic Maths Functions")
-}
+const Math = require("./Mafs/Maths/Math");
+const math = new Math();
+
+var val = math.quadraticEquations.absoluteValue();
+console.log(val);
