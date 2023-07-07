@@ -1,5 +1,11 @@
 # quick-mafs
 
+## Installation
+
+```
+npm i @otherwa/quick-mafs --save
+```
+
 ## Usage
 
 ```
