@@ -9,12 +9,6 @@
   "repository": {
     "url": "https://github.com/Otherwa/quick-mafs.git"
   },
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
-  },
-  "dependencies": {
-    "@otherwa/quick-mafs": "1.0.3"
-  },
   "author": "Atharv Desai",
   "license": "ISC"
 }
