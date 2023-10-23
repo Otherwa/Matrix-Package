@@ -1,6 +1,6 @@
 {
   "name": "@otherwa/quick-mafs",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "basic math functions",
   "main": "index.js",
   "scripts": {
